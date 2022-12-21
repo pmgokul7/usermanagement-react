@@ -1,0 +1,11 @@
+.home_content{
+   font-size: 100px;
+   border: 5px solid black;
+   margin-top:155px;
+   padding: 50px;
+}
+.home_container{
+    display: flex;
+    justify-content: center;
+    
+}
